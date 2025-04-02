@@ -1,0 +1,18 @@
+{
+  "streetsign": [
+    {
+      "sign_img": "https://www.shutterstock.com/image-vector/caution-sign-yellow-danger-warning-600nw-2283458099.jpg",
+      "sign_name": "Cautionary",
+      "detail": [
+        {
+          "detail_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmuag_cCiEybkvy0YmjvzSLSvEPMV6YcOIfQ&s",
+          "detail_sign": "Left Reverse Bend"
+        },
+        {
+          "detail_img": "https://m.media-amazon.com/images/I/91OMAghavtL._AC_UF1000,1000_QL80_.jpg",
+          "detail_sign": "Pedestrian Crossing"
+        }
+      ]
+    }
+  ]
+}

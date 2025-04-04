@@ -1,0 +1,36 @@
+{
+  "promobanner": {
+    "HeaderBanner": [
+      {
+        "img": "https://w7.pngwing.com/pngs/343/157/png-transparent-royal-enfield-bullet-car-royal-enfield-classic-motorcycle-car-car-motorcycle-vehicle.png",
+        "title": "Insure Your Bike @ RS.714 *",
+        "description": "24/7 Claim Assistance",
+        "claimurl": "https://www.acko.com/gi/lp/new-bike"
+      },
+      {
+        "img": "https://w7.pngwing.com/pngs/468/92/png-transparent-blue-bmw-car-2017-bmw-m2-bmw-2-series-car-bmw-5-series-blue-bmw-m2-coupe-car-compact-car-sedan-performance-car.png",
+        "title": "Insure Your Car @ RS.2094 *",
+        "description": "24/7 Claim Assistance",
+        "claimurl": "https://www.acko.com/t/car"
+      }
+    ],
+    "TopBanner": [
+      {
+        "imgbanner": "https://www.easemydeal.com/emd-images/loan/loan-banner-mobile.png",
+        "actionurl": "https://www.easemydeal.com/apply-loan"
+      }
+    ],
+    "OfferBanner": [
+      {
+        "imgbanner": "https://www.easemydeal.com/emd-images/loan/loan-banner-mobile.png",
+        "actiontype": "inapp",
+        "package": ""
+      },
+      {
+        "imgbanner": "https://www.easemydeal.com/emd-images/loan/loan-banner-mobile.png",
+        "actiontype": "web",
+        "actionurl": "https://www.google.com"
+      }
+    ]
+  }
+}

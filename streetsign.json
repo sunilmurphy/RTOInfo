@@ -545,6 +545,80 @@
           "detail_sign": "Two Way Object Hazard Marker"
         }
       ]
-    }
+    },
+        {
+      "sign_img": "https://www.shutterstock.com/image-vector/caution-sign-yellow-danger-warning-600nw-2283458099.jpg",
+      "sign_name": "Informatory signs",
+      "detail": [
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Indian_Road_Sign_III-1.svg/120px-Indian_Road_Sign_III-1.svg.png",
+          "detail_sign": "Stack-type advance direction sign"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Indian_Road_Sign_III-2.svg/120px-Indian_Road_Sign_III-2.svg.png",
+          "detail_sign": "Map-type advance direction sign"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Indian_Road_Sign_III-3.svg/120px-Indian_Road_Sign_III-3.svg.png",
+          "detail_sign": "Roundabout"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Indian_Road_Sign_III-4.svg/120px-Indian_Road_Sign_III-4.svg.png",
+          "detail_sign": "Flag-type direction sign"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Indian_Road_Sign_III-5.svg/120px-Indian_Road_Sign_III-5.svg.png",
+          "detail_sign": "Confirmatory sign"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Indian_Road_Sign_III-6.svg/120px-Indian_Road_Sign_III-6.svg.png",
+          "detail_sign": "Place identification sign"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Indian_Road_Sign_III-7.svg/120px-Indian_Road_Sign_III-7.svg.png",
+          "detail_sign": "Truck-lay by"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Indian_Road_Sign_III-9.svg/120px-Indian_Road_Sign_III-9.svg.png",
+          "detail_sign": "Weigh bridge ahead"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Indian_Road_Sign_III-10.svg/120px-Indian_Road_Sign_III-10.svg.png",
+          "detail_sign": "Gantry-mounted advance direction sign ahead of a grade-separated junction"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Indian_Road_Sign_III-11.svg/120px-Indian_Road_Sign_III-11.svg.png",
+          "detail_sign": "Gantry-mounted advance direction ahead of an at-grade junction"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Indian_Road_Sign_III-13.svg/120px-Indian_Road_Sign_III-13.svg.png",
+          "detail_sign": "Lane dedicated gantry sign"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Indian_Road_Sign_III-14.svg/120px-Indian_Road_Sign_III-14.svg.png",
+          "detail_sign": "Shoulder-mounted sign in advance of grade-separated junction"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Indian_Road_Sign_III-15.svg/120px-Indian_Road_Sign_III-15.svg.png",
+          "detail_sign": "Expressway sign ahead"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Indian_Road_Sign_III-16.svg/120px-Indian_Road_Sign_III-16.svg.png",
+          "detail_sign": "Gantry-mounted advance direction sign ahead of a flyover in urban/city roads"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Indian_Road_Sign_III-17a.svg/120px-Indian_Road_Sign_III-17a.svg.png",
+          "detail_sign": "Supplementary road sign ''No parking''"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Indian_Road_Sign_III-17b.svg/120px-Indian_Road_Sign_III-17b.svg.png",
+          "detail_sign": "Supplementary road sign ''No stopping No standing''"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Crash_Prone_Area.svg/120px-Crash_Prone_Area.svg.png",
+          "detail_sign": "Crash Prone Area"
+        }
+      ]
+    },
   ]
 }

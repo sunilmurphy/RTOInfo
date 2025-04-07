@@ -221,10 +221,6 @@
         {
           "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Minimum_speed_limit_India.svg/120px-Minimum_speed_limit_India.svg.png",
           "detail_sign": "Minimum Speed Limit"
-        },
-        {
-          "detail_img": "DSGFGFG",
-          "detail_sign": "Stop"
         }
       ]
     },
@@ -549,6 +545,6 @@
           "detail_sign": "Two Way Object Hazard Marker"
         }
       ]
-    },
+    }
   ]
 }

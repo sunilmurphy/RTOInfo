@@ -1,0 +1,34 @@
+{
+  "Accessories": {
+    "Bike": [
+      {
+        "image": "https://cdn.moglix.com/p/GyIU3x03mdoKx-xxlarge.jpg",
+        "name": "Car Wheel Tyre Anti Threft Lock Clamp Security",
+        "ownerShip": "Own",
+        "oldprice": "1599",
+        "price": "999",
+        "Aboutproduct": "this is dummy description",
+        "productpackage": "Lock",
+        "installation": "Installation not required",
+        "usefultips": "Lock",
+        "Warranty": "Warranty not applicable, for any connect with us at email",
+        "Termsconditions": "coming soon",
+        "buyURL": "https://www.google.com"
+      },
+      {
+        "image": "https://5.imimg.com/data5/SELLER/Default/2024/8/439698776/FZ/RY/YD/222181441/perfumated-camphor-dangler-air-freshener-car-perfume.jpeg",
+        "name": "Set of 4 Camphor Perfume",
+        "ownerShip": "Bonut Majestic Car Perfume",
+        "price": "299",
+        "oldprice": "499",
+        "Aboutproduct": "this is dummy description",
+        "productpackage": "Lock",
+        "installation": "Installation not required",
+        "usefultips": "Lock",
+        "Warranty": "Warranty not applicable, for any connect with us at email",
+        "Termsconditions": "coming soon",
+        "buyURL": "https://www.google.com"
+      }
+    ]
+  }
+}

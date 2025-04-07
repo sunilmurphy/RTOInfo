@@ -233,10 +233,326 @@
       "sign_name": "Cautionary signs",
       "detail": [
         {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Indian_Road_Sign_II-1.svg/120px-Indian_Road_Sign_II-1.svg.png",
+          "detail_sign": "Left curve"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Indian_Road_Sign_II-2.svg/120px-Indian_Road_Sign_II-2.svg.png",
+          "detail_sign": "Right curve"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Indian_Road_Sign_II-3.svg/120px-Indian_Road_Sign_II-3.svg.png",
+          "detail_sign": "Right hairpin bend"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Indian_Road_Sign_II-4.svg/120px-Indian_Road_Sign_II-4.svg.png",
+          "detail_sign": "Left hairpin bend"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Indian_Road_Sign_II-5.svg/120px-Indian_Road_Sign_II-5.svg.png",
+          "detail_sign": "Right reverse bend"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Indian_Road_Sign_II-6.svg/120px-Indian_Road_Sign_II-6.svg.png",
+          "detail_sign": "Left reverse bend"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Indian_Road_Sign_II-7.svg/120px-Indian_Road_Sign_II-7.svg.png",
+          "detail_sign": "Series of Bends"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Indian_Road_Sign_II-8.svg/120px-Indian_Road_Sign_II-8.svg.png",
+          "detail_sign": "270 Degree Loop"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Indian_Road_Sign_II-9.svg/120px-Indian_Road_Sign_II-9.svg.png",
+          "detail_sign": "Side road to right"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Indian_Road_Sign_II-10.svg/120px-Indian_Road_Sign_II-10.svg.png",
+          "detail_sign": "Side road to left"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Indian_Road_Sign_II-11a.svg/120px-Indian_Road_Sign_II-11a.svg.png",
+          "detail_sign": "Y-Intersection (Left)"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Indian_Road_Sign_II-11b.svg/120px-Indian_Road_Sign_II-11b.svg.png",
+          "detail_sign": "Y-Intersection (Right)"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Y-Intersection.svg/120px-Y-Intersection.svg.png",
+          "detail_sign": "Y-Intersection"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Indian_Road_Sign_II-12.svg/120px-Indian_Road_Sign_II-12.svg.png",
+          "detail_sign": "Crossroads"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Indian_Road_Sign_II-13.svg/120px-Indian_Road_Sign_II-13.svg.png",
+          "detail_sign": "Roundabout"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Indian_Road_Sign_II-14.svg/120px-Indian_Road_Sign_II-14.svg.png",
+          "detail_sign": "Traffic Signals"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Indian_Road_Sign_II-15.svg/120px-Indian_Road_Sign_II-15.svg.png",
+          "detail_sign": "T-junction"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Indian_Road_Sign_II-16.svg/120px-Indian_Road_Sign_II-16.svg.png",
+          "detail_sign": "T-junction major road ahead"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Indian_Road_Sign_II-17.svg/120px-Indian_Road_Sign_II-17.svg.png",
+          "detail_sign": "Major road ahead"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Indian_Road_Sign_II-18.svg/120px-Indian_Road_Sign_II-18.svg.png",
+          "detail_sign": "Staggered junction"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Indian_Road_Sign_II-19_R.svg/120px-Indian_Road_Sign_II-19_R.svg.png",
+          "detail_sign": "Merging Traffic ahead from Right"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Indian_Road_Sign_II-19.svg/120px-Indian_Road_Sign_II-19.svg.png",
+          "detail_sign": "Merging Traffic ahead from Left"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Indian_Road_Sign_II-21.svg/120px-Indian_Road_Sign_II-21.svg.png",
+          "detail_sign": "Road Narrows Ahead"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Indian_Road_Sign_II-22.svg/120px-Indian_Road_Sign_II-22.svg.png",
+          "detail_sign": "Road widens"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Indian_Road_Sign_II-23.svg/120px-Indian_Road_Sign_II-23.svg.png",
+          "detail_sign": "Narrow Bridge Ahead"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Indian_Road_Sign_II-24.svg/120px-Indian_Road_Sign_II-24.svg.png",
+          "detail_sign": "Steep ascent"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Indian_Road_Sign_II-25.svg/120px-Indian_Road_Sign_II-25.svg.png",
+          "detail_sign": "Steep descent"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Indian_Road_Sign_II-26.svg/120px-Indian_Road_Sign_II-26.svg.png",
+          "detail_sign": "Reduced Carriageway Left Lane(s) Reduced"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Indian_Road_Sign_II-27.svg/120px-Indian_Road_Sign_II-27.svg.png",
+          "detail_sign": "Reduced Carriageway Right Lane(s) Reduced"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Indian_Road_Sign_II-28.svg/120px-Indian_Road_Sign_II-28.svg.png",
+          "detail_sign": "Start of dual carriageway"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Indian_Road_Sign_II-29.svg/120px-Indian_Road_Sign_II-29.svg.png",
+          "detail_sign": "End of dual carriageway"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Indian_Road_Sign_II-30.svg/120px-Indian_Road_Sign_II-30.svg.png",
+          "detail_sign": "Gap in median"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Indian_Road_Sign_II-31.svg/120px-Indian_Road_Sign_II-31.svg.png",
+          "detail_sign": "Pedestrian crossing"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Road_Sign_Children.svg/120px-Road_Sign_Children.svg.png",
+          "detail_sign": "School Ahead"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Indian_Road_Sign_II-33.svg/120px-Indian_Road_Sign_II-33.svg.png",
+          "detail_sign": "Built-up area"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Two_Way_Operation.svg/120px-Two_Way_Operation.svg.png",
+          "detail_sign": "Two Way Operation"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Two_way_Traffic_on_Crossroad_Ahead_Warning.svg/120px-Two_way_Traffic_on_Crossroad_Ahead_Warning.svg.png",
+          "detail_sign": "Two way Traffic on crossroads Ahead Warning"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Roadworks_2022.svg/120px-Roadworks_2022.svg.png",
+          "detail_sign": "People at Work"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Indian_Road_Sign_II-41.svg/120px-Indian_Road_Sign_II-41.svg.png",
+          "detail_sign": "Supplementary plate ''END'' at the leaving side of work zone"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Indian_Road_Sign_II-42.svg/120px-Indian_Road_Sign_II-42.svg.png",
+          "detail_sign": "Danger warning"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Differently_Abled_Persons_Ahead.svg/120px-Differently_Abled_Persons_Ahead.svg.png",
+          "detail_sign": "Differently Abled Persons Ahead"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Deaf_Persons_Ahead.svg/120px-Deaf_Persons_Ahead.svg.png",
+          "detail_sign": "Deaf Persons Ahead"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Blind_Persons_Ahead.svg/120px-Blind_Persons_Ahead.svg.png",
+          "detail_sign": "Blind Persons Ahead"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Indian_Road_Sign_II-45.svg/120px-Indian_Road_Sign_II-45.svg.png",
+          "detail_sign": "Cycle crossing"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Indian_Road_Sign_II-46.svg/120px-Indian_Road_Sign_II-46.svg.png",
+          "detail_sign": "Cycle Route Ahead"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Indian_Road_Sign_II-47.svg/120px-Indian_Road_Sign_II-47.svg.png",
+          "detail_sign": "Dangerous Dip"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Indian_Road_Sign_II-48.svg/120px-Indian_Road_Sign_II-48.svg.png",
+          "detail_sign": "Speed Breaker"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Indian_Road_Sign_II-49.svg/120px-Indian_Road_Sign_II-49.svg.png",
+          "detail_sign": "Rumble strip"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Indian_Road_Sign_II-50.svg/120px-Indian_Road_Sign_II-50.svg.png",
+          "detail_sign": "Rough road"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Indian_Road_Sign_II-51.svg/120px-Indian_Road_Sign_II-51.svg.png",
+          "detail_sign": "Soft verges"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Indian_Road_Sign_II-52.svg/120px-Indian_Road_Sign_II-52.svg.png",
+          "detail_sign": "Loose gravel"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Indian_Road_Sign_II-53.svg/120px-Indian_Road_Sign_II-53.svg.png",
+          "detail_sign": "Slippery road"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Indian_Road_Sign_II-54.svg/120px-Indian_Road_Sign_II-54.svg.png",
+          "detail_sign": "Slippery road because of Ice"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Indian_Road_Sign_II-55.svg/120px-Indian_Road_Sign_II-55.svg.png",
+          "detail_sign": "Opening or Swing Bridge"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Indian_Road_Sign_II-56.svg/120px-Indian_Road_Sign_II-56.svg.png",
+          "detail_sign": "Overhead cables"
+        },
+        {
           "detail_img": "DSGFGFG",
           "detail_sign": "Stop"
-        }
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
       ]
-    }
+    },
   ]
 }

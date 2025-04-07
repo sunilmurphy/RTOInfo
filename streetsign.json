@@ -5,12 +5,68 @@
       "sign_name": "Cautionary",
       "detail": [
         {
-          "detail_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmuag_cCiEybkvy0YmjvzSLSvEPMV6YcOIfQ&s",
-          "detail_sign": "Left Reverse Bend"
+          "detail_img": "https://en.wikipedia.org/wiki/File:Indian_Road_Sign_I-I-2.svg",
+          "detail_sign": "Stop"
         },
         {
-          "detail_img": "https://m.media-amazon.com/images/I/91OMAghavtL._AC_UF1000,1000_QL80_.jpg",
-          "detail_sign": "Pedestrian Crossing"
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Indian_Road_Sign_I-I-2.svg/120px-Indian_Road_Sign_I-I-2.svg.png",
+          "detail_sign": "Give Way"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Give_Way_to_Buses.svg/107px-Give_Way_to_Buses.svg.png",
+          "detail_sign": "Give Way to Buses"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/No_Entry_sign_India.svg/120px-No_Entry_sign_India.svg.png",
+          "detail_sign": "No entry"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Indian_Road_Sign_oncoming_priority.svg/120px-Indian_Road_Sign_oncoming_priority.svg.png",
+          "detail_sign": "Priority for oncoming vehicles"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Indian_Road_Sign_one_way_traffic_right.svg/120px-Indian_Road_Sign_one_way_traffic_right.svg.png",
+          "detail_sign": "One-way traffic"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Indian_Road_Sign_one_way_traffic_left.svg/120px-Indian_Road_Sign_one_way_traffic_left.svg.png",
+          "detail_sign": "One-way traffic"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
         }
       ]
     }

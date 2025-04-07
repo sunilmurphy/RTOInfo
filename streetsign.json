@@ -806,5 +806,83 @@
         },
       ]
     },
+        {
+      "sign_img": "https://www.shutterstock.com/image-vector/caution-sign-yellow-danger-warning-600nw-2283458099.jpg",
+      "sign_name": "Parking signs",
+      "detail": [
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Parking_Management_India_1.svg/120px-Parking_Management_India_1.svg.png",
+          "detail_sign": "Parking Restriction Sign for Traffic Management (a)"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Parking_Management_India_2.svg/120px-Parking_Management_India_2.svg.png",
+          "detail_sign": "Parking Restriction Sign for Traffic Management (b)"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Parking_Management_India_3.svg/85px-Parking_Management_India_3.svg.png",
+          "detail_sign": "Parking Restriction Sign for Traffic Management (c)"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Park_and_ride_bus_India.svg/120px-Park_and_ride_bus_India.svg.png",
+          "detail_sign": "Park and Ride (By Bus)"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Park_and_ride_metro_India.svg/120px-Park_and_ride_metro_India.svg.png",
+          "detail_sign": "Park and Ride (By Metro)"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Pick_up_and_drop_point_sign_India.svg/78px-Pick_up_and_drop_point_sign_India.svg.png",
+          "detail_sign": "Pick Up & Drop Point"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Flood_Gauge_India.svg/40px-Flood_Gauge_India.svg.png",
+          "detail_sign": "Flood Gauge"
+        }
+      ]
+    },
+    {
+      "sign_img": "https://www.shutterstock.com/image-vector/caution-sign-yellow-danger-warning-600nw-2283458099.jpg",
+      "sign_name": "Route Marker signs",
+      "detail": [
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/State_Highway_of_India_Marker.svg/91px-State_Highway_of_India_Marker.svg.png",
+          "detail_sign": "State Highway Route Marker"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/National_Highway_of_India_Marker.svg/90px-National_Highway_of_India_Marker.svg.png",
+          "detail_sign": "National Highway Route Marker"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Asian_Highway_Marker_India.svg/120px-Asian_Highway_Marker_India.svg.png",
+          "detail_sign": "Asian Highway Route Marker"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/National_Expressway_of_India_Marker.svg/120px-National_Expressway_of_India_Marker.svg.png",
+          "detail_sign": "National Expressway Route Marker"
+        }
+      ]
+    },
+    {
+      "sign_img": "https://www.shutterstock.com/image-vector/caution-sign-yellow-danger-warning-600nw-2283458099.jpg",
+      "sign_name": "Retired road signs",
+      "detail": [
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Indian_Road_Sign_II-32.svg/120px-Indian_Road_Sign_II-32.svg.png",
+          "detail_sign": "School"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Indian_Road_Sign_II-40.svg/120px-Indian_Road_Sign_II-40.svg.png",
+          "detail_sign": "Roadworks"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Indian_Road_Sign_II-43.svg/120px-Indian_Road_Sign_II-43.svg.png",
+          "detail_sign": "Deaf persons likely on road ahead"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Indian_Road_Sign_II-44.svg/120px-Indian_Road_Sign_II-44.svg.png",
+          "detail_sign": "Blind persons likely on road ahead"
+        }
+      ]
+    }
   ]
 }

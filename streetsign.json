@@ -33,6 +33,86 @@
           "detail_sign": "One-way traffic"
         },
         {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Indian_Road_Sign_no_vehicles.svg/120px-Indian_Road_Sign_no_vehicles.svg.png",
+          "detail_sign": "No vehicles in both directions"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Indian_Road_Sign_I-II-14.svg/120px-Indian_Road_Sign_I-II-14.svg.png",
+          "detail_sign": "Cycles prohibited"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Indian_Road_Sign_I-II-9.svg/120px-Indian_Road_Sign_I-II-9.svg.png",
+          "detail_sign": "Trucks prohibited"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Indian_Road_Sign_pedestrians_prohibited.svg/120px-Indian_Road_Sign_pedestrians_prohibited.svg.png",
+          "detail_sign": "Pedestrians prohibited"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Indian_Road_Sign_I-II-4.svg/120px-Indian_Road_Sign_I-II-4.svg.png",
+          "detail_sign": "Tongas prohibited"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Indian_Road_Sign_I-II-1.svg/120px-Indian_Road_Sign_I-II-1.svg.png",
+          "detail_sign": "Bullock carts prohibited"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Indian_Road_Sign_I-II-3.svg/120px-Indian_Road_Sign_I-II-3.svg.png",
+          "detail_sign": "Hand carts prohibited"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Indian_Road_Sign_I-II-2.svg/120px-Indian_Road_Sign_I-II-2.svg.png",
+          "detail_sign": "Bullock cart and hand carts prohibited"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Indian_Road_Sign_all_motor_vehicles_prohibited.svg/120px-Indian_Road_Sign_all_motor_vehicles_prohibited.svg.png",
+          "detail_sign": "All motor vehicles prohibited"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Buses_Prohibited.svg/120px-Buses_Prohibited.svg.png",
+          "detail_sign": "Buses Prohibited"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Indian_Road_Sign_I-IV-2.svg/120px-Indian_Road_Sign_I-IV-2.svg.png",
+          "detail_sign": "Height limit"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Indian_Road_Sign_width_limit.svg/120px-Indian_Road_Sign_width_limit.svg.png",
+          "detail_sign": "Width limit"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
           "detail_img": "DSGFGFG",
           "detail_sign": "Stop"
         },

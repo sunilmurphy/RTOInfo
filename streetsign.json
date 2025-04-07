@@ -146,102 +146,97 @@
         }
       ]
     }
-     {
+    {
       "sign_img": "https://www.shutterstock.com/image-vector/caution-sign-yellow-danger-warning-600nw-2283458099.jpg",
       "sign_name": "Compulsory signs",
       "detail": [
         {
-          "detail_img": "DSGFGFG",
-          "detail_sign": "Stop"
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Compulsory_Ahead.svg/120px-Compulsory_Ahead.svg.png",
+          "detail_sign": "Compulsory Ahead"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Compulsory_Left_India.svg/120px-Compulsory_Left_India.svg.png",
+          "detail_sign": "Compulsory Turn Left"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Compulsory_Right_India.svg/120px-Compulsory_Right_India.svg.png",
+          "detail_sign": "Compulsory Turn Right"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Compulsory_left_ahead_India.svg/120px-Compulsory_left_ahead_India.svg.png",
+          "detail_sign": "Compulsory turn left"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Compulsory_Right_ahead_India.svg/120px-Compulsory_Right_ahead_India.svg.png",
+          "detail_sign": "Compulsory turn right"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Compulsory_ahead_or_right_India.svg/120px-Compulsory_ahead_or_right_India.svg.png",
+          "detail_sign": "Compulsory Ahead or turn Right"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Compulsory_ahead_or_left_India.svg/120px-Compulsory_ahead_or_left_India.svg.png",
+          "detail_sign": "Compulsory Ahead or turn Left"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Compulsory_Keep_Left_India.svg/120px-Compulsory_Keep_Left_India.svg.png",
+          "detail_sign": "Compulsory Keep Left"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Compulsory_Keep_Right_India.svg/120px-Compulsory_Keep_Right_India.svg.png",
+          "detail_sign": "Compulsory Keep Right"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Pass_either_side_India.svg/120px-Pass_either_side_India.svg.png",
+          "detail_sign": "Pass Either Side"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Priority_to_vehicles_from_the_right_India.svg/120px-Priority_to_vehicles_from_the_right_India.svg.png",
+          "detail_sign": "Priority to Vehicles from the Right"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Compulsory_cycle_track_India.svg/120px-Compulsory_cycle_track_India.svg.png",
+          "detail_sign": "Cycle Only"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Compulsory_cyclist_and_pedestrian_route_India.svg/120px-Compulsory_cyclist_and_pedestrian_route_India.svg.png",
+          "detail_sign": "Compulsory Cyclist and Pedestrian Route"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Pedestrian_only_India.svg/120px-Pedestrian_only_India.svg.png",
+          "detail_sign": "Pedestrian Only"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bus_way_sign_India.svg/120px-Bus_way_sign_India.svg.png",
+          "detail_sign": "Buses Only"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Compulsory_snow_chain_India.svg/120px-Compulsory_snow_chain_India.svg.png",
+          "detail_sign": "Compulsory Snow Chain"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Compulsory_sound_horn_India.svg/120px-Compulsory_sound_horn_India.svg.png",
+          "detail_sign": "Compulsory Sound Horn"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Minimum_speed_limit_India.svg/120px-Minimum_speed_limit_India.svg.png",
+          "detail_sign": "Minimum Speed Limit"
         },
         {
           "detail_img": "DSGFGFG",
           "detail_sign": "Stop"
-        },
+        }
+      ]
+    }
+    {
+      "sign_img": "https://www.shutterstock.com/image-vector/caution-sign-yellow-danger-warning-600nw-2283458099.jpg",
+      "sign_name": "Cautionary signs",
+      "detail": [
         {
           "detail_img": "DSGFGFG",
           "detail_sign": "Stop"
-        },
-        {
-          "detail_img": "DSGFGFG",
-          "detail_sign": "Stop"
-        },
-        {
-          "detail_img": "DSGFGFG",
-          "detail_sign": "Stop"
-        },
-        {
-          "detail_img": "DSGFGFG",
-          "detail_sign": "Stop"
-        },
-        {
-          "detail_img": "DSGFGFG",
-          "detail_sign": "Stop"
-        },
-        {
-          "detail_img": "DSGFGFG",
-          "detail_sign": "Stop"
-        },
-        {
-          "detail_img": "DSGFGFG",
-          "detail_sign": "Stop"
-        },
-        {
-          "detail_img": "DSGFGFG",
-          "detail_sign": "Stop"
-        },
-        {
-          "detail_img": "DSGFGFG",
-          "detail_sign": "Stop"
-        },
-        {
-          "detail_img": "DSGFGFG",
-          "detail_sign": "Stop"
-        },
-        {
-          "detail_img": "DSGFGFG",
-          "detail_sign": "Stop"
-        },
-        {
-          "detail_img": "DSGFGFG",
-          "detail_sign": "Stop"
-        },
-        {
-          "detail_img": "DSGFGFG",
-          "detail_sign": "Stop"
-        },
-        {
-          "detail_img": "DSGFGFG",
-          "detail_sign": "Stop"
-        },
-        {
-          "detail_img": "DSGFGFG",
-          "detail_sign": "Stop"
-        },
-        {
-          "detail_img": "DSGFGFG",
-          "detail_sign": "Stop"
-        },
-        {
-          "detail_img": "DSGFGFG",
-          "detail_sign": "Stop"
-        },
-        {
-          "detail_img": "DSGFGFG",
-          "detail_sign": "Stop"
-        },
-        {
-          "detail_img": "DSGFGFG",
-          "detail_sign": "Stop"
-        },
-        {
-          "detail_img": "DSGFGFG",
-          "detail_sign": "Stop"
-        },
-        {
-          "detail_img": "DSGFGFG",
-          "detail_sign": "Stop"
-        },
-     ]
+        }
+      ]
+    }
   ]
 }

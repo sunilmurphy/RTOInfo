@@ -620,5 +620,191 @@
         }
       ]
     },
+        {
+      "sign_img": "https://www.shutterstock.com/image-vector/caution-sign-yellow-danger-warning-600nw-2283458099.jpg",
+      "sign_name": "Cautionary signs",
+      "detail": [
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Eating_place_facility_sign_India.svg/90px-Eating_place_facility_sign_India.svg.png",
+          "detail_sign": "Eating Place"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Light_Refreshment_facility_sign_India.svg/120px-Light_Refreshment_facility_sign_India.svg.png",
+          "detail_sign": "Light Refreshment"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Resting_place_facility_sign_India.svg/120px-Resting_place_facility_sign_India.svg.png",
+          "detail_sign": "Resting Place"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/First_aid_post_facility_sign_India.svg/90px-First_aid_post_facility_sign_India.svg.png",
+          "detail_sign": "First Aid Post"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Toilet_facility_sign_India.svg/90px-Toilet_facility_sign_India.svg.png",
+          "detail_sign": "Toilet"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Filling_station_facility_sign_India.svg/120px-Filling_station_facility_sign_India.svg.png",
+          "detail_sign": "Filling Station"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Hospital_sign_India.svg/120px-Hospital_sign_India.svg.png",
+          "detail_sign": "Hospital"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Emergency_SOS_facility_sign_India.svg/90px-Emergency_SOS_facility_sign_India.svg.png",
+          "detail_sign": "Emergency SOS Facility"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/U-turn_ahead_facility_sign_India.svg/120px-U-turn_ahead_facility_sign_India.svg.png",
+          "detail_sign": "U-Turn Ahead"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Pedestrian_subway_sign_India.svg/120px-Pedestrian_subway_sign_India.svg.png",
+          "detail_sign": "Pedestrian Subway"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Foot_over_bridge_sign_India.svg/90px-Foot_over_bridge_sign_India.svg.png",
+          "detail_sign": "Foot Over Bridge"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Chair_lift_sign_India.svg/120px-Chair_lift_sign_India.svg.png",
+          "detail_sign": "Chair Lift"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Police_Station_sign_India.svg/120px-Police_Station_sign_India.svg.png",
+          "detail_sign": "Police Station"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Repair_facility_sign_India.svg/120px-Repair_facility_sign_India.svg.png",
+          "detail_sign": "Repair Facility"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Railway_Station_metro_station_monorail_station_sign_India.svg/90px-Railway_Station_metro_station_monorail_station_sign_India.svg.png",
+          "detail_sign": "Railway Station/Metro Station/Monorail Station"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Cycle_rickshaw_stand_sign_India.svg/120px-Cycle_rickshaw_stand_sign_India.svg.png",
+          "detail_sign": "Cycle Rickshaw Stand"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Taxi_stand_sign_India.svg/90px-Taxi_stand_sign_India.svg.png",
+          "detail_sign": "Taxi Stand"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Auto-rickshaw_stand_sign_India.svg/120px-Auto-rickshaw_stand_sign_India.svg.png",
+          "detail_sign": "Auto-rickshaw Stand"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Shared_taxi_and_share_auto_stand_sign_India.svg/120px-Shared_taxi_and_share_auto_stand_sign_India.svg.png",
+          "detail_sign": "Shared Taxi/Share Auto Stand"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Home_zone_sign_India.svg/120px-Home_zone_sign_India.svg.png",
+          "detail_sign": "Home Zone"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Camp_site_sign_India.svg/120px-Camp_site_sign_India.svg.png",
+          "detail_sign": "Camp Site"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Airport_sign_India.svg/120px-Airport_sign_India.svg.png",
+          "detail_sign": "Airport"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Golf_course_sign_India.svg/90px-Golf_course_sign_India.svg.png",
+          "detail_sign": "Golf Course"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/National_heritage_sign_India.svg/90px-National_heritage_sign_India.svg.png",
+          "detail_sign": "National Heritage"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/No_through_road_sign_India.svg/120px-No_through_road_sign_India.svg.png",
+          "detail_sign": "No Through Road"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/No_through_side_road_sign_India.svg/90px-No_through_side_road_sign_India.svg.png",
+          "detail_sign": "No Through Side Road"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Toll_road_ahead_sign_India.svg/120px-Toll_road_ahead_sign_India.svg.png",
+          "detail_sign": "Toll Road Ahead"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Guide_sign_on_ETC_lane_sign_India.svg/120px-Guide_sign_on_ETC_lane_sign_India.svg.png",
+          "detail_sign": "ETC Lane Guide"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Country_border_Sign_India.svg/90px-Country_border_Sign_India.svg.png",
+          "detail_sign": "Country Border"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Entry_ramp_for_expressway_sign_India.svg/120px-Entry_ramp_for_expressway_sign_India.svg.png",
+          "detail_sign": "Entry Ramp for Expressway"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Exit_ramp_for_expressway_sign_India.svg/120px-Exit_ramp_for_expressway_sign_India.svg.png",
+          "detail_sign": "Exit Ramp for Expressway"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Expressway_symbol_sign_India.svg/120px-Expressway_symbol_sign_India.svg.png",
+          "detail_sign": "Expressway Symbol"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/End_of_expressway_sign_India.svg/120px-End_of_expressway_sign_India.svg.png",
+          "detail_sign": "End of Expressway"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Bus_stop_sign_India.svg/120px-Bus_stop_sign_India.svg.png",
+          "detail_sign": "Bus Stop"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Bus_lane_sign_India.svg/120px-Bus_lane_sign_India.svg.png",
+          "detail_sign": "Bus Lane"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Contra_flow_bus_lane_sign_India.svg/120px-Contra_flow_bus_lane_sign_India.svg.png",
+          "detail_sign": "Contra Flow Bus Lane"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Cycle_lane_sign_India.svg/120px-Cycle_lane_sign_India.svg.png",
+          "detail_sign": "Cycle Lane"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Contra_flow_cycle_lane_sign_India.svg/120px-Contra_flow_cycle_lane_sign_India.svg.png",
+          "detail_sign": "Contra Flow Cycle Lane"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Holiday_chalets_sign_India.svg/120px-Holiday_chalets_sign_India.svg.png",
+          "detail_sign": "Holiday Chalets"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Emergency_exit_%28a%29_sign_India.svg/120px-Emergency_exit_%28a%29_sign_India.svg.png",
+          "detail_sign": "Emergency Exit (a)"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Emergency_exit_%28b%29_sign_India.svg/120px-Emergency_exit_%28b%29_sign_India.svg.png",
+          "detail_sign": "Emergency Exit (b)"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Emergency_helpline_number_%28a%29_sign_India.svg/120px-Emergency_helpline_number_%28a%29_sign_India.svg.png",
+          "detail_sign": "Emergency Helpline Number (a)"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Emergency_helpline_number_%28b%29_sign_India.svg/120px-Emergency_helpline_number_%28b%29_sign_India.svg.png",
+          "detail_sign": "Emergency Helpline Number (b)"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Emergency_lay-by_sign_India.svg/90px-Emergency_lay-by_sign_India.svg.png",
+          "detail_sign": "Emergency Lay-by"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Fire_extinguisher_sign_India.svg/90px-Fire_extinguisher_sign_India.svg.png",
+          "detail_sign": "Fire Extinguisher"
+        },
+      ]
+    },
   ]
 }

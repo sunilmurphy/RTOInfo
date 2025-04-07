@@ -2,7 +2,7 @@
   "streetsign": [
     {
       "sign_img": "https://www.shutterstock.com/image-vector/caution-sign-yellow-danger-warning-600nw-2283458099.jpg",
-      "sign_name": "Cautionary",
+      "sign_name": "Mandatory/Regulatory signs",
       "detail": [
         {
           "detail_img": "https://en.wikipedia.org/wiki/File:Indian_Road_Sign_I-I-2.svg",
@@ -148,8 +148,96 @@
     }
      {
       "sign_img": "https://www.shutterstock.com/image-vector/caution-sign-yellow-danger-warning-600nw-2283458099.jpg",
-      "sign_name": "Cautionary",
+      "sign_name": "Compulsory signs",
       "detail": [
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
+        {
+          "detail_img": "DSGFGFG",
+          "detail_sign": "Stop"
+        },
         {
           "detail_img": "DSGFGFG",
           "detail_sign": "Stop"

@@ -622,7 +622,7 @@
     },
         {
       "sign_img": "https://www.shutterstock.com/image-vector/caution-sign-yellow-danger-warning-600nw-2283458099.jpg",
-      "sign_name": "Cautionary signs",
+      "sign_name": "Facility informatory signs",
       "detail": [
         {
           "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Eating_place_facility_sign_India.svg/90px-Eating_place_facility_sign_India.svg.png",
@@ -803,6 +803,26 @@
         {
           "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Fire_extinguisher_sign_India.svg/90px-Fire_extinguisher_sign_India.svg.png",
           "detail_sign": "Fire Extinguisher"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Rest_and_service_area_%28a%29_sign_India.svg/120px-Rest_and_service_area_%28a%29_sign_India.svg.png",
+          "detail_sign": "Rest and Service Area (a)"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Rest_and_service_area_%28b%29_sign_India.svg/120px-Rest_and_service_area_%28b%29_sign_India.svg.png",
+          "detail_sign": "Rest and Service Area (b)"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Pedestrian_crossing_facility_sign_India.svg/120px-Pedestrian_crossing_facility_sign_India.svg.png",
+          "detail_sign": "Pedestrian Crossing"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Speed_breaker_facility_sign_India.svg/120px-Speed_breaker_facility_sign_India.svg.png",
+          "detail_sign": "Speed Breaker"
+        },
+        {
+          "detail_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Charging_station_sign_India.svg/120px-Charging_station_sign_India.svg.png",
+          "detail_sign": "Electric Vehicle Charging Station"
         }
       ]
     },

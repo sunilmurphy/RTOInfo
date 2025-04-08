@@ -1,7 +1,7 @@
 {
   "streetsign": [
     {
-      "sign_img": "https://www.shutterstock.com/image-vector/caution-sign-yellow-danger-warning-600nw-2283458099.jpg",
+      "sign_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Indian_Road_Sign_I-I-1_%28EN%29.svg/120px-Indian_Road_Sign_I-I-1_%28EN%29.svg.png",
       "sign_name": "Mandatory/Regulatory signs",
       "detail": [
         {
@@ -147,7 +147,7 @@
       ]
     },
     {
-      "sign_img": "https://www.shutterstock.com/image-vector/caution-sign-yellow-danger-warning-600nw-2283458099.jpg",
+      "sign_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Compulsory_Ahead.svg/120px-Compulsory_Ahead.svg.png",
       "sign_name": "Compulsory signs",
       "detail": [
         {
@@ -225,7 +225,7 @@
       ]
     },
     {
-      "sign_img": "https://www.shutterstock.com/image-vector/caution-sign-yellow-danger-warning-600nw-2283458099.jpg",
+      "sign_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Indian_Road_Sign_II-1.svg/120px-Indian_Road_Sign_II-1.svg.png",
       "sign_name": "Cautionary signs",
       "detail": [
         {
@@ -547,7 +547,7 @@
       ]
     },
         {
-      "sign_img": "https://www.shutterstock.com/image-vector/caution-sign-yellow-danger-warning-600nw-2283458099.jpg",
+      "sign_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Indian_Road_Sign_III-4.svg/120px-Indian_Road_Sign_III-4.svg.png",
       "sign_name": "Informatory signs",
       "detail": [
         {
@@ -621,7 +621,7 @@
       ]
     },
         {
-      "sign_img": "https://www.shutterstock.com/image-vector/caution-sign-yellow-danger-warning-600nw-2283458099.jpg",
+      "sign_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Eating_place_facility_sign_India.svg/90px-Eating_place_facility_sign_India.svg.png",
       "sign_name": "Facility informatory signs",
       "detail": [
         {
@@ -827,7 +827,7 @@
       ]
     },
         {
-      "sign_img": "https://www.shutterstock.com/image-vector/caution-sign-yellow-danger-warning-600nw-2283458099.jpg",
+      "sign_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Park_and_ride_bus_India.svg/120px-Park_and_ride_bus_India.svg.png",
       "sign_name": "Parking signs",
       "detail": [
         {
@@ -861,7 +861,7 @@
       ]
     },
     {
-      "sign_img": "https://www.shutterstock.com/image-vector/caution-sign-yellow-danger-warning-600nw-2283458099.jpg",
+      "sign_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/State_Highway_of_India_Marker.svg/91px-State_Highway_of_India_Marker.svg.png",
       "sign_name": "Route Marker signs",
       "detail": [
         {
@@ -883,7 +883,7 @@
       ]
     },
     {
-      "sign_img": "https://www.shutterstock.com/image-vector/caution-sign-yellow-danger-warning-600nw-2283458099.jpg",
+      "sign_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Indian_Road_Sign_II-44.svg/120px-Indian_Road_Sign_II-44.svg.png",
       "sign_name": "Retired road signs",
       "detail": [
         {

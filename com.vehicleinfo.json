@@ -7,18 +7,18 @@
         "Vehicle_customnative_adstatus": 0
     },
     "admob": {
-        "Vehicle_appopen_id": "\/206696744,23111729878\/thebes\/tree_infotech\/com.profit.cash.loan_openapp",
-        "Vehicle_banner_id": "",
-        "Vehicle_native_id": "\/206696744,23111729878\/thebes\/tree_infotech\/com.profit.cash.loan_native",
-        "Vehicle_interstitial_id": "\/206696744,23111729878\/thebes\/tree_infotech\/com.profit.cash.loan_interstitial",
-        "Vehicle_reward_id": "\/206696744,23111729878\/thebes\/tree_infotech\/com.profit.cash.loan_rewarded"
+        "Vehicle_appopen_id": "/21775744923/example/app-open",
+        "Vehicle_banner_id": "/21775744923/example/fixed-size-banner",
+        "Vehicle_native_id": "/21775744923/example/native",
+        "Vehicle_interstitial_id": "/21775744923/example/interstitial",
+        "Vehicle_reward_id": "/21775744923/example/rewarded"
     },
     "frequency_capping": {
         "Vehicle_frequency_banner": "0",
         "Vehicle_frequency_native": "0",
         "Vehicle_frequency_appopen": "0",
-        "Vehicle_frequency_interstitial": "2",
-        "Vehicle_frequency_Backinterstitial": "2",
+        "Vehicle_frequency_interstitial": "0",
+        "Vehicle_frequency_Backinterstitial": "0",
         "Vehicle_frequency_affiliate": "0"
     },
     "extra": {

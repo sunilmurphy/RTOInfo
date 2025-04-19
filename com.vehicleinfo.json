@@ -1,8 +1,8 @@
 {
     "Vehicle_status": {
         "Vehicle_appName": "Vehicle Service",
-        "Vehicle_adStatus": 0,
-        "Vehicle_admob_adstatus": 0,
+        "Vehicle_adStatus": 1,
+        "Vehicle_admob_adstatus": 1,
         "Vehicle_customappopen_adstatus": 0,
         "Vehicle_customnative_adstatus": 0
     },
@@ -38,7 +38,7 @@
         "Vehicle_naffiliate_url": "https:\/\/1104.go.mglgamez.co\/pregamez",
         "Vehicle_fbAppID": "983573566981826",
         "Vehicle_fbClientID": "972d9c187bb8170c52303bda94792190",
-        "Vehicle_userTracking": 1,
+        "Vehicle_userTracking": 0,
         "Vehicle_userTrackingURL": "utm_source=google-play&utm_medium=organic",
         "Vehicle_userTrackingType": 0,
         "Vehicle_collapsizeBanner": 0,

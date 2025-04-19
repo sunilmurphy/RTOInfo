@@ -48,6 +48,33 @@
         "Vehicle_BannerisNativeAdShown": false,
         "Vehicle_FbTrakingMethod": false,
         "Vehicle_enableNotify": "fef7857e-9a07-4c30-8d6f-f412f0a33ed0",
+        "Vehicle_CarResalevalue": "https://www.spinny.com/sell-used-car/",
+        "Vehicle_Carinsurance": "https://go.shortlnk.in/1b40f",
+        "Vehicle_Bikeinsurance": "https://go.shortlnk.in/1b40f",
+        "Vehicle_VehicleLoan": "https://go.shortlnk.in/1b411",
+        "Vehicle_CheckChalan": "https://www.cars24.com/traffic-challan/",
+        "Vehicle_PUC": "https://www.acko.com/traffic-rules/puc-check/",
+
+        "Vehicle_RenewInsurance": "https://m.carinfo.app/",
+        "Vehicle_CheckFastag": "https://www.npci.org.in/",
+        "Vehicle_VahanService": "https://parivahan.gov.in/parivahan/",
+        "Vehicle_Analutics": "https://vahan.parivahan.gov.in/vahan4dashboard/",
+
+        "Vehicle_CellYourCar": "https://www.spinny.com/sell-used-car/",
+        "Vehicle_NewCar": "https://www.cars24.com/",
+        "Vehicle_CashOnCar": "https://go.shortlnk.in/1b411",
+        "Vehicle_UsedCar": "https://go.shortlnk.in/1b411",
+        "Vehicle_SellBike": "https://go.shortlnk.in/1b411",
+        "Vehicle_BuyBike": "https://go.shortlnk.in/1b411",
+
+        "Vehicle_RoadSideAssistance": "https://allianzroadassist.com/",
+        "Vehicle_BikeLoan": "https://go.shortlnk.in/1b411",
+        "Vehicle_CarLoan": "https://go.shortlnk.in/1b411",
+        "Vehicle_NewBikeLoan": "https://go.shortlnk.in/1b411",
+        "Vehicle_InstantLoan": "https://go.shortlnk.in/1b411",
+        "Vehicle_Refinance": "https://go.shortlnk.in/1b411",
+        "Vehicle_UsedCarLoan": "https://go.shortlnk.in/1b411",
+        "Vehicle_Personalloan": "https://go.shortlnk.in/1b411",
         "Vehicle_ReturnUserCare": false
     },
     "appInstallextra": {

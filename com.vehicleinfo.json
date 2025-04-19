@@ -1,8 +1,8 @@
 {
     "Vehicle_status": {
         "Vehicle_appName": "Vehicle Service",
-        "Vehicle_adStatus": 1,
-        "Vehicle_admob_adstatus": 1,
+        "Vehicle_adStatus": 0,
+        "Vehicle_admob_adstatus": 0,
         "Vehicle_customappopen_adstatus": 0,
         "Vehicle_customnative_adstatus": 0
     },

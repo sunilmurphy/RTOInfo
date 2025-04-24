@@ -1,8 +1,8 @@
 {
     "Body_Scan_status": {
         "Body_Scan_appName": "Xray cam Body scan",
-        "Body_Scan_adStatus": 1,
-        "Body_Scan_admob_adstatus": 1,
+        "Body_Scan_adStatus": 0,
+        "Body_Scan_admob_adstatus": 0,
         "Body_Scan_customappopen_adstatus": 0,
         "Body_Scan_customnative_adstatus": 0
     },
